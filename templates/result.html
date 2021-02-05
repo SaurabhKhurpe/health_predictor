@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+    <h1> {{ session['result'] }} </h1>
+    <h2> {{ session['acc'] }} </h2>
+
+</head>
+<body>
+<table border=1>
+    {% for key, value in result.items() %}
+        <tr>
+            <th> {{ key }} </th>
+            <td> {{ value }} </td>
+        </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

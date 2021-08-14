@@ -1,9 +1,9 @@
 # health predictor web pages
 
-![health_predictor4](https://user-images.githubusercontent.com/78470684/129447075-ff60e346-064c-4aa7-a28e-935feb3a8f5d.png)
+![health_predictor1](https://user-images.githubusercontent.com/78470684/129447799-1b181643-3286-4a33-8a66-90b203325731.png)
 
-![health_predictor](https://user-images.githubusercontent.com/78470684/129444059-84b6739b-e83a-4afa-8b51-cf0e84e71433.png)
+![health_predictor2](https://user-images.githubusercontent.com/78470684/129447796-1f4b613d-aa65-4cc9-87fe-3720be6c997f.PNG)
 
-![health_predictor2](https://user-images.githubusercontent.com/78470684/129445068-16a8977b-0acc-41e9-8f7e-c60a9174550e.png)
+![health_predictor3](https://user-images.githubusercontent.com/78470684/129447795-0a8cb7c2-9091-4618-b445-370f173b3eaf.PNG)
 
-![health_predictor3](https://user-images.githubusercontent.com/78470684/129447087-72622c9b-a02c-41e2-8922-17634fecc3d3.png)
+![health_predictor4](https://user-images.githubusercontent.com/78470684/129447793-54ec4cd6-b96f-4de1-ae2a-3498c7f746e5.PNG)
